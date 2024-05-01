@@ -1,3 +1,8 @@
+## Hi there 👋
+
+This organisation aims to work on creating NLP resources.
+Some ideas are:
+
 1. **Tokenization**: Create a tool that can split Telugu text into meaningful tokens like words or characters. This is fundamental for many NLP tasks.
 
 2. **Part-of-Speech (POS) Tagger**: Develop a POS tagger that assigns grammatical categories (like noun, verb, adjective) to each word in a Telugu sentence.
